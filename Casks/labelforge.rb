@@ -1,6 +1,6 @@
 cask "labelforge" do
-  version "1.2.2"
-  sha256 "8b7fdc75f1d7e90bab07a336b0bbb528c912dcd4f3713be6934bbfdd3a74556d"
+  version "1.3.0"
+  sha256 "98fd5ed752c2a2514deffd1d03aeb53162b7458c82a4558f962f8eaecb0b4884"
 
   url "https://github.com/xtamtamx/labelforge-site/releases/download/v#{version}/LabelForge.dmg"
   name "LabelForge"
