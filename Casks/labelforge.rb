@@ -7,7 +7,7 @@ cask "labelforge" do
   desc "Reformat carrier shipping labels for any label printer"
   homepage "https://labelforge.co/"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "LabelForge.app"
 
